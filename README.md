@@ -11,8 +11,8 @@
 - footer มีไว้เพื่อแสดงโชว์ลิขสิทธิ์ ไม่ได้มีฟังก์ชั่นอะไร
 
 ## ส่วนที่เพิ่มเข้ามา
--ได้ทำการแก้ไขการ link source ของ css และ javascript ที่ผิด
--ได้ทำการเพิ่มรูปเพื่อเป็น source ให้กับ Profile Picture และทำการใช้ placeholder แทนรูปภาพอื่นๆ
+- ได้ทำการแก้ไขการ link source ของ css และ javascript ที่ผิด
+- ได้ทำการเพิ่มรูปเพื่อเป็น source ให้กับ Profile Picture และทำการใช้ placeholder แทนรูปภาพอื่นๆ
 
 
 ## Reflection Report
