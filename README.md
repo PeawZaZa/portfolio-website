@@ -17,3 +17,6 @@
 
 ## Reflection Report
 https://docs.google.com/document/d/1irDBw2l8Vwj-KqKW2UpoiXNtYnAqlMcl-hZHO1VZ1zM/edit?usp=sharing
+
+## site link
+https://peawzaza.github.io/portfolio-website/
